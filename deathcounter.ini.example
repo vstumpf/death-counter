@@ -1,0 +1,12 @@
+[Twitch]
+Username=toolowforzero
+Client-ID=abcdlajkflkjelakjf
+
+[Hotkeys]
+RecordDeath=alt+i
+UndoDeath=alt+shift+i
+
+[Paths]
+Database=deaths.db
+OBSSource=deathcount.txt
+
